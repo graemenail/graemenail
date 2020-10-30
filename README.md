@@ -1,8 +1,12 @@
 ### Hi there :rocket:
 
 🔭 You can also find me on:
-  - [GitLab](https://gitlab.com/graemenail)
-  - [DockerHub](https://hub.docker.com/u/graemenail)
+  - 📫 
+    [Twitter](https://twitter.com/graemenail),
+    [LinkedIn](https://www.linkedin.com/in/graemenail)
+  - 👨🏻‍💻
+    [GitLab](https://gitlab.com/graemenail),
+    [DockerHub](https://hub.docker.com/u/graemenail)
 
 <!--
 **graemenail/graemenail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
